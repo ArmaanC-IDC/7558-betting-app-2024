@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.box{
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: red;
+    border-style: solid;
+}
+
+.numberInput{
+    width: 50px;
+}
